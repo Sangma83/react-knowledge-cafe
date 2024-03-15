@@ -1,0 +1,52 @@
+[
+    {
+        "id": "123456",
+        "cover": "src/assets/images/2.png",
+        "title": "The Secret Garden",
+        "author": "Jane Doe",
+        "author_img": "src/assets/images/boy1.png",
+        "posted_date": "2024-03-15",
+        "reading_time": 30,
+        "hashtags": ["fiction", "classics", "gardening"]
+    },
+    {
+        "id": "234567",
+        "cover": "src/assets/images/1.jpg",
+        "title": "Journey to the Center of the Earth",
+        "author": "John Smith",
+        "author_img": "src/assets/images/boy2.png",
+        "posted_date": "2024-03-14",
+        "reading_time": 45,
+        "hashtags": ["adventure", "sciencefiction"]
+    },
+    {
+        "id": "345678",
+        "cover": "src/assets/images/3.png",
+        "title": "The Great Gatsby",
+        "author": "Emily Johnson",
+        "author_img": "src/assets/images/girl1.jpg",
+        "posted_date": "2024-03-13",
+        "reading_time": 60,
+        "hashtags": ["classics", "romance", "gatsby"]
+    },
+    {
+        "id": "456789",
+        "cover": "src/assets/images/4.jpg",
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Michael Brown",
+        "author_img": "src/assets/images/girl2.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 40,
+        "hashtags": ["fantasy", "children", "adventure"]
+    },
+    {
+        "id": "567890",
+        "cover": "src/assets/images/4.jpg",
+        "title": "To Kill a Mockingbird",
+        "author": "Sarah Lee",
+        "author_img": "src/assets/images/girl2.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": 50,
+        "hashtags": ["classics", "racism", "society"]
+    }
+]
